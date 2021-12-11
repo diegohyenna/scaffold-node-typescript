@@ -9,4 +9,4 @@
 - Baixar o projeto
 - Rodar um `yarn` na pasta raiz do projeto
 - Abrir o arquivo json de configurações do vscode e copiar o que estiver dentro do arquivo `config-vscode.json`
-- Editar o arquivo `src/server.ts` e se tudo funcionou, testar gerando erros de sintaxe nesse arquivo
+- E se tudo funcionou, testar gerando erros de sintaxe nesse no arquivo `src/app.ts`, clicar com botao direito do mouse dentro do arquivo aberto e pedir pra "formatar com..." (prettier)
