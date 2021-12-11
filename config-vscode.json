@@ -1,0 +1,68 @@
+{
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescript]": {
+    "editor.formatOnSave": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Dracula",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.codeActionsOnSave.mode": "all",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact"
+  ],
+  "editor.formatOnSave": true,
+  "sass.format.enabled": true,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "emmet.syntaxProfiles": { "javascript": "jsx" },
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.automationShell.linux": "E:\\Program Files\\Cmder\\Cmder.exe",
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "terminal.integrated.automationShell.windows": "E:\\Program Files\\Cmder\\Cmder.exe",
+  "terminal.external.windowsExec": "E:\\Program Files\\Cmder\\Cmder.exe",
+  "terminal.integrated.automationShell.osx": "E:\\Program Files\\Cmder\\Cmder.exe",
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": {
+      "source": "Git Bash",
+      "path": "C:\\ProgramData\\Microsoft\\Windows\\Start Menu\\Programs\\Git"
+    },
+    "PowerShell": {
+      "source": "PowerShell",
+      "icon": "terminal-powershell"
+    },
+    "Command Prompt": {
+      "path": [
+        "E:\\Program Files\\Cmder\\Cmder.exe",
+        "${env:windir}\\Sysnative\\cmd.exe",
+        "${env:windir}\\System32\\cmd.exe"
+      ],
+      "args": [],
+      "icon": "terminal-cmd"
+    }
+  },
+  "editor.fontFamily": "OCR A, Consolas, 'Courier New', monospace",
+  "[feature]": {
+    "editor.defaultFormatter": "marcosvfranco.cucumberautocomplete-behat"
+  },
+  "git.autofetch": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
